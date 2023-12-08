@@ -21,6 +21,5 @@
 ##
 ![卷轴_02](https://github.com/NEUQNPEE/.github/assets/103409346/14f68869-7658-4991-ada5-564e8697edef)
 
-本组织的项目采用 [MIT许可证](LICENSE.md)。
-
+本组织对所有公开项目使用[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)协议。
 
